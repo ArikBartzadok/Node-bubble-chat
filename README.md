@@ -5,3 +5,6 @@ A simple web application with http and websocket protocol
 
 - ExpressJS
 - Typescript
+- TypeORM 
+- Reflect-metadata
+- SQLite
